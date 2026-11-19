@@ -1,5 +1,4 @@
 # 阿里云ap8220-ipq807x
-# 兆能m2-ipq60xx
 内置openclash ua3f aurora 其余默认
 192.168.2.1 
 77 12345678
